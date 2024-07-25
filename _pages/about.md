@@ -6,7 +6,7 @@ subtitle: Ph.D student in Computer Vision and Robotics
 
 profile:
   align: right
-  image: shuang_ieee.jpg
+  image: shuang_guo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
@@ -15,10 +15,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D student at
+I am a Ph.D student at Robotic Interactive Perception Lab at Technical University Berlin, working with [Prof. Guillermo Gallego](https://sites.google.com/view/guillermogallego/home).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Previously, I obtained my M.Eng and B.Eng degrees from Harbin Institute Of Technology in 2015 and 2019, respectively.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation, bundle adjustment, SLAM, panoramic imaging and image reconstruction. My research objective is to develop algorithms to unlock the great potential of event cameras (HDR, high temporal resolution, etc.), to help bring maturity to event cameras and related applications.
