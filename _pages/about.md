@@ -21,6 +21,7 @@ Previously, I obtained my M.Eng and B.Eng degrees from Harbin Institute Of Techn
 
 My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation, bundle adjustment, SLAM, panoramic imaging and image reconstruction. My research objective is to develop algorithms to unlock the great potential of event cameras (HDR, high temporal resolution, etc.), to help bring maturity to event cameras and related applications.
 
+---
 
 <div class="publications">
 
