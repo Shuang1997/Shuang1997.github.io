@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D student at Robotic Interactive Perception Lab at [Technical University Berlin](https://www.tu.berlin/), working with [Prof. Guillermo Gallego](https://sites.google.com/view/guillermogallego/home).
 
-Previously, I obtained my B.Eng and M.Eng degrees from Harbin Institute Of Technology in 2015 and 2019, respectively.
+Previously, I obtained my B.Eng and M.Eng degrees from Harbin Institute Of Technology in 2019 and 2021, respectively.
 
 My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation, bundle adjustment, SLAM, panoramic imaging and image reconstruction. My research objective is to develop algorithms to unlock the great potential of event cameras (HDR, high temporal resolution, etc.), to help bring maturity to event cameras and related applications.
