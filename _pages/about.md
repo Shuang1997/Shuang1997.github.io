@@ -19,4 +19,4 @@ I am a Ph.D student at Robotic Interactive Perception Lab at [Technical Universi
 
 Previously, I obtained my B.Eng and M.Eng degrees from Harbin Institute of Technology in 2019 and 2021, respectively.
 
-My research interests lie in computer vision and robotics, especially using event cameras. Currently, I am working on event-based motion estimation, bundle adjustment, SLAM, panoramic imaging and image reconstruction. My research objective is to develop algorithms to unlock the great potential of event cameras (HDR, high temporal resolution, etc.), to help bring maturity to event cameras and related applications.
+My research interests lie in computer vision and robotics. Currently, I am working on event-based motion estimation, bundle adjustment, SLAM, panoramic imaging and image reconstruction. My research objective is to develop algorithms to unlock the great potential of event cameras (HDR, high temporal resolution, etc.), to help bring maturity to event cameras and related applications.
