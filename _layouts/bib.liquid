@@ -46,24 +46,6 @@
 
   <!-- Entry bib key -->
   <div id="{{ entry.key }}" class="{% if site.enable_publication_thumbnails %}col-sm-8{% else %}col-sm-10{% endif %}">
-    #
-    <!-- Title -->
-    #
-    <div class="title">{{ entry.title }}</div>
-    #
-    <!-- Title -->
-    #
-    <div class="title">
-      # {{ entry.title }} #
-      {% if entry.highlight %}
-        #
-        <span style="background-color:#ffcccc; color:#cc0000; padding:2px 6px; border-radius:4px; font-size:12px; margin-left:6px;"
-          >\ # ICCV 2025 Highlight #
-        </span>
-        #
-      {% endif %}
-      #
-    </div>
     <!-- Title -->
     <div class="title">
       {{ entry.title }}
