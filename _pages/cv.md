@@ -2,7 +2,7 @@
 layout: page
 permalink: /cv/
 title: CV
-description: Doctoral education, postdoctoral experience, workshop talks, and academic service.
+description: Doctoral education, postdoctoral experience, Invited talks, and academic service.
 nav: true
 nav_order: 3
 ---
