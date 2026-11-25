@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D student at TU Berlin
+subtitle: Postdoctoral Researcher at TU Berlin
 
 profile:
   align: right
@@ -15,8 +15,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D student at Robotic Interactive Perception Lab at [Technical University Berlin](https://www.tu.berlin/), working with [Prof. Guillermo Gallego](https://sites.google.com/view/guillermogallego/home).
+I am a postdoctoral researcher at [Technische Universität Berlin](https://www.tu.berlin/), where I have been working since December 2025. I received my D.Eng. in Electrical Engineering and Computer Science from TU Berlin in December 2025, advised by [Prof. Guillermo Gallego](https://sites.google.com/view/guillermogallego/home).
 
-Previously, I obtained my B.Eng and M.Eng degrees from Harbin Institute of Technology in 2019 and 2021, respectively.
+My research interests include **event-based vision, multi-modal robotic visual perception, and neuromorphic AI**. My work explores motion estimation, bundle adjustment, SLAM, image reconstruction, and continuous-time 3D geometry estimation with frames and events.
 
-My research interests lie in computer vision and robotics. Currently, I am working on event-based motion estimation, bundle adjustment, SLAM, panoramic imaging and image reconstruction. My research objective is to develop algorithms to unlock the great potential of event cameras (HDR, high temporal resolution, etc.), to help bring maturity to event cameras and related applications.
+I am a **2026 Best PhD Thesis Finalist** of Robotics Institute Germany (RIG), and I have served as an **Associate Editor for IEEE Robotics and Automation Letters (RA-L)** since 2026.
+
+See my [CV]({{ '/cv/' | relative_url }}) for my experience, workshop talks, and academic service.
